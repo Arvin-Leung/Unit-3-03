@@ -1,0 +1,30 @@
+body {
+  background-color: antiquewhite;
+}
+
+.header {
+  position: sticky;
+  top: 0;
+}
+
+#right-column {
+  display: block;
+  float: left;
+  max-width: 1000px;
+  width: 50%;
+  padding-bottom: 2000px;
+}
+
+#left-column {
+  display: block;
+  float: right;
+  max-width: 900px;
+  width: 50%;
+  padding-bottom: 2000px;
+}
+
+img {
+  position: relative;
+  top: 2000px;
+  left: 300px;
+}
